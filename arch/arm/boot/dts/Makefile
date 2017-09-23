@@ -279,6 +279,7 @@ dtb-$(CONFIG_MACH_J3XNLTE) += sprd-scx35l_sharkls_j3xnlte_rev00.dtb \
 				sprd-scx35l_sharkls_j3xnlte_rev05.dtb
 dtb-$(CONFIG_MACH_GTEXSLTE) += sprd-scx35l_sharkls_gtexslte_rev00.dtb \
 				sprd-scx35l_sharkls_gtexslte_rev01.dtb
+dtb-$(CONFIG_MACH_I5CSPRD) += sprd-scx35l_sp9830aea_5m_volte.dtb
 dtb-$(CONFIG_MACH_SP9630EA3MN) += sprd-scx35l_sp9630ea3mn.dtb
 dtb-$(CONFIG_MACH_SP9630EA4MN) += sprd-scx35l_sp9630ea4mn.dtb
 dtb-$(CONFIG_MACH_SP9830AEA_5M_H100) += sprd-scx35l_sp9830aea_5m_h100.dtb
